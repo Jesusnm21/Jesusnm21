@@ -3,6 +3,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEw2wT0LVM4MOAvKvsuXxKkI4PYj3SVk3qqQ&s" alt="Banner Jesús" style="border-radius: 10px;" />
 
   <h1>💻 Hola, soy Jesús</h1>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2306B4FC&size=24&center=true&vCenter=true&lines=Desarrollador+Web;Desarrollador+Móvil;Desarrollador+de+API's" alt="Typing Animation" />
+</p>
   <p>
     🌟 Desarrollador web apasionado por la creación de soluciones innovadoras<br>
     🎨 Combinando diseño y funcionalidad para experiencias de usuario únicas<br>
@@ -65,7 +68,4 @@
 
 ---
 
-## 🌟 Animaciones Dinámicas
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F76626&size=24&center=true&vCenter=true&lines=Desarrollador+Web+y+M%C3%B3vil;Apasionado+por+la+tecnolog%C3%ADa;Dise%C3%B1ando+soluciones+innovadoras;Amante+del+dise%C3%B1o+intuitivo+%F0%9F%92%A1" alt="Typing Animation" />
-</p>
+
