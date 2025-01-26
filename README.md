@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>💻 Hola, soy Jesús</h1>
+  <h1>Hola, soy Jesús</h1>
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2306B4FC&size=24&center=true&vCenter=true&lines=Desarrollador+Web;Desarrollador+Móvil;Desarrollador+de+API's" alt="Typing Animation" />
 </p>
@@ -17,8 +17,6 @@
       con interfaces intuitivas.
 - 🎨  Creo experiencias de usuario atractivas y eficientes al combinar diseño moderno con   
        tecnología avanzada.
-- ⚡ Interesado en la innovación que mezcla hardware y software con aplicaciones móviles.
-
 ---
 
 <h2>🚀 Lenguajes y herramientas que utilizo:</h2>
@@ -41,13 +39,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 </p>
 
-
-## 🚀 Proyectos Actuales
-- 🛒 **Creación de apps dinámicas y funcionales**
-- 🌐 **Páginas Interactivas:** Creando  sitios web que se adaptan a las diferentes necesidades de los usuarios.
-
-
----
 
 ## 📊 Estadísticas
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jesusnm21&show_icons=true&locale=en" alt="Jesusnm21" /></p>
