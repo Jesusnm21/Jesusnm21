@@ -1,58 +1,71 @@
-<h1 align="center">👋 ¡Hola! Soy Jesús</h1>
+<div align="center">
+  <!-- Banner -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEw2wT0LVM4MOAvKvsuXxKkI4PYj3SVk3qqQ&s" alt="Banner Jesús" style="border-radius: 10px;" />
+
+  <h1>💻 Hola, soy Jesús</h1>
+  <p>
+    🌟 Desarrollador web apasionado por la creación de soluciones innovadoras<br>
+    🎨 Combinando diseño y funcionalidad para experiencias de usuario únicas<br>
+    📱 Creando aplicaciones y proyectos que integran tecnología moderna y diseño intuitivo
+  </p>
+</div>
+
+---
+
+## 🚀 Sobre mí
+- 💻 Desarrollador web con experiencia en frontend y backend.
+- 🎨 Disfruto creando interfaces intuitivas y atractivas.
+- ⚡ Interesado en la innovación que mezcla hardware y software, como sensores y aplicaciones móviles.
+
+---
+
+## 🛠️ Habilidades y Tecnologías
 <p align="center">
-  💻 <strong>Desarrollador Web y Móvil</strong> <br>
-  🎨 Apasionado por crear aplicaciones elegantes, funcionales y de alto impacto.
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 🚀 Tecnologías y Herramientas que utilizo
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="42" height="42" /></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="42" height="42" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="42" height="42" /></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="42" height="42" /></a>
-  <a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="42" height="42" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="42" height="42" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="42" height="42" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" /></a>
-</p>
+## 🚀 Proyectos Actuales
+- 🛒 **Sistemas de Inventario:** Diseñando sistemas de inventario con interfaces atractivas y funcionalidad optimizada.
+- 🌐 **Páginas Interactivas:** Creando aplicaciones y sitios web que se adaptan a diferentes necesidades de los usuarios.
+- 🤖 **Proyectos Innovadores:** Desarrollo de sensores personalizados y su integración en aplicaciones, como un sensor de pulso.
 
 ---
 
-## ✒️ Publicaciones recientes
-<ul>
-  <li><a href="#" target="_blank">Cómo optimizar tu diseño web con TailwindCSS</a></li>
-  <li><a href="#" target="_blank">Introducción a React Native: Todo lo que necesitas saber</a></li>
-  <li><a href="#" target="_blank">Mejores prácticas para trabajar con bases de datos MySQL</a></li>
-</ul>
-
----
-
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesusnm21&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesusnm21&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jesusnm21&show_icons=true&locale=en&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesusnm21&layout=compact&theme=dracula" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ## 📫 Contacto
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tuemail@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-  <a href="https://github.com/Jesusnm21" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tuemail@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Jesusnm21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
+---
+
+## 🌟 Animaciones Dinámicas
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F76626&size=24&center=true&vCenter=true&lines=Desarrollador+Web+y+M%C3%B3vil;Apasionado+por+la+tecnolog%C3%ADa;Dise%C3%B1ando+soluciones+innovadoras;Amante+del+dise%C3%B1o+intuitivo+%F0%9F%92%A1" alt="Typing Animation" />
+</p>
