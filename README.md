@@ -1,12 +1,10 @@
 <div align="center">
 
-
   <h1>💻 Hola, soy Jesús</h1>
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2306B4FC&size=24&center=true&vCenter=true&lines=Desarrollador+Web;Desarrollador+Móvil;Desarrollador+de+API's" alt="Typing Animation" />
 </p>
   <p>
-   
    🎨 Combinando diseño y funcionalidad para experiencias de usuario únicas<br>
    📱 Creando aplicaciones y proyectos que integran tecnología moderna y diseño intuitivo
   </p>
@@ -41,7 +39,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a></p>
+</p>
 
 
 ## 🚀 Proyectos Actuales
@@ -52,12 +50,9 @@
 ---
 
 ## 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesusnm21&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesusnm21&layout=compact&theme=dracula" alt="Lenguajes más usados" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jesusnm21&show_icons=true&locale=en" alt="Jesusnm21" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jesusnm21&show_icons=true&locale=en&layout=compact" alt="Jesusnm21" /></p>
+
 
 ---
 
