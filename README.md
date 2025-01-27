@@ -2,7 +2,7 @@
 
   <h1>Hola, soy Jesús</h1>
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2306B4FC&size=24&center=true&vCenter=true&lines=Desarrollador+Web;Desarrollador+Móvil;Desarrollador+de+API's" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2306B4FC&size=24&center=true&vCenter=true&lines=Desarrollador+Web;Desarrollador+Móvil" alt="Typing Animation" />
 </p>
   <p>
    🎨 Combinando diseño y funcionalidad para experiencias de usuario únicas<br>
